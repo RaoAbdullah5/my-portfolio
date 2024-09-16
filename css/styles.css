@@ -10973,7 +10973,7 @@ section.resume-section .resume-section-content {
 }
 .ProfilePic{
   margin: auto;
-  padding: 20px;
+  /* padding: 20px; */
     width: 150px;
     border-radius: 100%;
     border: solid 2px #bd5d38;
